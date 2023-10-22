@@ -26,7 +26,7 @@ public class MainBanco {
 		System.out.println("|    			Opção 3 - Sacar       				 |");
 		System.out.println("|    			Opção 4 - Transferir  				 |");
 		System.out.println("|    			Opção 5 - Listar     				 |");
-		System.out.println("|   			Opção 6 - Sair 						 |");
+		System.out.println("|   			Opção 6 - Sair ola						 |");
 
 		int operacao = scanner.nextInt();
 
